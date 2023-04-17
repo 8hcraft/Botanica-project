@@ -34,13 +34,21 @@ Seed is predefined, how many “slots” it occupies to be placed on the parcel,
 C.2) Feeding and growth processes:
 
 Feeding process in few words:
-Alchemica feeding price + Channeling ability burn = Your Seed or Tree got fed.
+Alchemica feeding price + Channeling ability burn = 2 conditions that must to be met in order of your Seed or Tree got fed.
 
 * Alchemica sink - Your gotchi is coming to the Seed or Tree, to fulfill the needs of your Seed or Tree (daily required alchemica price). 
 * Reversed channeling process - While spending alchemica on feeding, Gotchis also burning it's channeling ability until the reset time. (This kind of action do not burn gotchi kinship\aka legacy channeling rule\. This kind of action do not give you any alchemica, your channeling ability burnt + alchemica spent.)  
+* Tree feeding process is acting the same way as Gotchis reseting channeling ability = Your tree can be fed anytime in 24 hrs. 
+* Tree feeding timer get a reset ant the same time as gotchis getting channeling ability reset.
+* Trees feeding conditions is acting as a reversed reservoirs. Isnted of accumulating of alchemica - it's accumulating it's cost of the feed, but growth bar is not going to be fulfilled without channeling spent on it in time. 
 * Each growing stage of Seed to become an Ancient Tree, will require different amount of alchemica and times of be fed\channeled (depends on the stage and types of Trees), that needs to be spent on the Tree. 
 * This kind actions going to fill up the growing process bar. 
 * By doing so your Gotchi will gain Gardening skill.  
 * Gardening skill will give you a discount on the cost of growth, it's progress and Age claims. 
 
- 
+C.3) Aging and claims of aging Trees
+
+From seed to sapling, the only thing that Gotchi Gardners need, is a care that they give to the trees - feeding it's with alchemica and pray for the healthy tree growth (Alchemica+Channeling burn).
+   
+Only Trees will be able to have a special ability to be aged in Botanica update. 
+After continuosly care giving actions by your Gotchi Gardners, Trees will accumulate your Love, and at some point will be able to change it's form to the Older version. 
