@@ -2,6 +2,7 @@
 Botanica is an ultimate update for Gotchiverse, with the unique gameplay and Alchemica utility sinks.
 
 A) What is Botanica?
+
 Botanica is the science about plants.
 
 Plants is everything that grows - trees, herbs, fruit, veggies, berries and more.
