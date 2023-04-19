@@ -6,23 +6,28 @@ A) What is Botanica?
 Botanica is the science about plants.
 
 Plants is everything that grows - trees, herbs, fruit, veggies, berries and more.
+
 (Trees will become our MVP in the matter of upcoming series of Gotchiverse Botanica updates.)
-Any kind of your plants are grown on your parcel, where your parcel is your garden itself.
+
+All kinds of your plants are grown on your parcel, where your parcel is your garden itself.
 
 You can grow Trees, which are typically 2x2 size installations that comes from Seeds (Seed size is equal to it's grown Tree size). 
 There are more sizes, depending on type of the Trees.
 
 B) New installations, tiles utilities and unlimited soil tiles
 
-All types of Botanica will be grown from the Seeds. Initially Seeds will come through Genesis cones event. 
+All types of Botanica will be grown from the Seeds. Initially Seeds will come through Genesis cones distribution event. 
 
-Basically, Seeds and Trees, that will be grown out of it, are the same installation with the same UI. In order to start growing process your Seeds must to be placed on the parcel that covered with any tiles. For those who dont have any tiles, we are proposing to make new unlimited supply non-bazaar tradable Soil tiles that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.1-0.2 ghst).
+Basically, Seeds and Trees, that will be grown out of it, are the same installation with the same UI. 
+
+In order to start growing process your Seeds must to be placed on the parcel that covered with any tiles. 
+For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.1-0.2 ghst).
 
 C) Gameplay 
 
 Seed and Tree UI is the same. 
 
-It'll work opposite way to Altair, but the mechanic will near the same.
+It'll work opposite way to Altair, but the mechanic will be near the same.
 
 C.1) Placing the Seed and starting the growing process: 
 
@@ -30,7 +35,11 @@ Seed must to be in your wallet (or gotchi pocket, that you can deposit through t
 
 To place the Seed and to start its growing process, your parcel must to have any kind of tile covering it's surface, to work as a soil for the Seed and the future Tree.
 
-Seed is predefined, how many “slots” it occupies to be placed on the parcel, as it defines the graphic space it occupies for the future Tree. Size of the Seed = size of the Tree
+Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
+It's imposible to move or unequip planted Seed or Tree, unless you destroy it.
+After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
+
+Seed is predefined, how many “slots” it occupies to be placed on the parcel, as it defines the graphic space it occupies for the future Tree. Size of the Seed = size of the Tree.
 
 C.2) Feeding and growth processes:
 
