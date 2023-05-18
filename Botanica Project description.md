@@ -14,7 +14,7 @@ Mechanics of Botanica project implementation and it's benefits to Gotchiverse:
 * By doing so your Gotchi will gain Gardening skill.  
 * Gardening skill will give you a discount on the cost on growth and incresing your odds on succesful reward claims. 
 
-**A) What is Botanica?**
+**I) What is Botanica?**
 
 Botanica is the science about *Plants*.
 Plants is everything that grows from the soil - ***Trees** , herbs, fruits and berries, veggies and mushrooms*.
@@ -26,11 +26,11 @@ All kinds of plants are grown on your parcel - your parcel is your garden itself
 Size of the Seed = size of the Tree. (Seed=Tree)
 Trees and Seed are commonly 2x2 sized installations, but it's all depends on the type of Seeds\Trees.
 
-**B) Botanica distribution, Tiles utilities for planting Seeds and infinity items of Maal**
+**II) Botanica distribution**
 
 All types of Botanica will be grown from the Seeds. Initially Seeds will come through "Genesis cones" distribution event. 
 
-B.1) Botanica distribution:
+Botanica distribution:
 
 Botanica will be distributed via Genesis cones distribution event.
 Genesis cones will be airdroped to all of holders of the main assets, such as gotchis and parcels. (Probably this action shuold take a place with the GotchiChain release, to take a snapshot of active users) 
@@ -38,27 +38,39 @@ Genesis cones will be airdroped to all of holders of the main assets, such as go
 Proportions of distribution per asset will be announced later.
 All Genesis cones will have even odds for a success to obtain seeds.
 
-**B.2) Tiles utilities and new Soil tile**
+**III) Tiles utilities for planting Seeds**
 
-In order to start growing process your Seeds must to be planted on the parcel that covered with any tiles. 
-For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.05 ghst).
+In order to start growing process your Seeds must to be planted on the parcel. 
 
 Seed must to be in your *gotchi pocket*, that you can deposit through the Aavegotchi protocol from your wallet. 
 To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering it's surface**, to work as a soild surface for the Seed and the future Tree.
 Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
 
-**B.3) Infinity items of Maal**
+**IV) Infinity items of Maal**
 
-Since it's imposible to move or unequip planted Seed or Tree, you need **Gardening instruments** unless you destroy it or cut it with "forest axe"(Tree) or "gardening pickaxe"(Seed) that you can buy in Maal. 
-If your seed grow it's roots already, then you also need to buy "root remover" from Maal.
+For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.05 ghst).
+Since it's imposible to move or unequip planted Seed or Tree, that been placed on the tiled parcel, you need **Gardening instruments**.
+
+List of the proposed instruments for Gardening:
+
+* Pair of gloves - Item that's needed for any kind of earthwork;
+* Forest Axe - Axe that can cut down the grown tree;
+* Light shovel - Tool to dig out the Seed(or Shrubs in the future);
+* Shiny shovel - Tool to dig out the Tree or Stump;
+* Roots remover - Tool to remove the roots of grown seeds, sprouts and saplings after it's excavations;
+* Grubber - Heavy tool to remove roots of grown Trees or Stumps after it's excavations;
+* Pots - eacj 
+* Wheelbarrow - Used in order to move your tree around the parcel freely, after diging it up;
+
 After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
 If destruction of the plant is not an option, you can buy "shiny shovel" and "extra gloves" in the maal in order to dig it up and move. 
 
 Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burn).
 
-**C) Gameplay**
-C.1) Planting seeds and growing process
-C.2) Seed\Tree UI
+**V) Gameplay**
+A) Planting seeds and growing process
+B) Seed\Tree UI
+С) 
 
 C.1) 
 
