@@ -3,59 +3,71 @@ Botanica is an ultimate update for Gotchiverse, with the unique gameplay and Alc
 
 A) What is Botanica?
 
-Botanica is the science about plants.
+Botanica is the science about *Plants*.
+Plants is everything that grows from the soil - ***Trees** , herbs and roots, fruits and berries, veggies, mushrooms and spices*.
 
-Plants is everything that grows - trees, herbs, fruit, veggies, berries and more.
+(**Trees** will become our MVP in the matter of upcoming series of Gotchiverse Botanica updates.)
 
-(Trees will become our MVP in the matter of upcoming series of Gotchiverse Botanica updates.)
+All kinds of plants are grown on your parcel - your parcel is your garden itself. 
+(In the future we might go beyond the borders of our parcels and embellish entire Gotchiverse)
+Size of the Seed = size of the Tree. (Seed=Tree)
+Most of Trees and Seed are 2x2 sized installations, but it's all depends on the type of Seeds\Trees.
 
-All kinds of your plants are grown on your parcel, where your parcel is your garden itself.
-
-You can grow Trees, which are typically 2x2 size installations that comes from Seeds (Seed size is equal to it's grown Tree size. There are more sizes, depending on type of the Trees)
-
-B) New installations aka Botanica, tiles utilities and unlimited soil tiles
+B) New installations aka Botanica, Tiles utilities and New unlimited soil tiles
 
 All types of Botanica will be grown from the Seeds. Initially Seeds will come through "Genesis cones" distribution event. 
 
-Basically, Seeds and Trees, that will be grown out of it, are the same installation with the same UI. 
+B.1) Genesis cone distribution event:
+
+Genesis cones will be airdroped to all of the main asset holders, such as gotchis and parcels. Proportions of distribution per asset will be announced later.
+All genesis cones will have even odds for a success to obtain seeds.
+
+B.2) Seeds and Trees have same UI. 
 
 In order to start growing process your Seeds must to be placed on the parcel that covered with any tiles. 
 For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.05 ghst).
 
 C) Gameplay 
+*C.1) Planting seeds and growing process
+C.2) Seed\Tree UI
+
+C.1) Planting seeds and growing process: 
+
+Seed must to be in your *gotchi pocket*, that you can deposit through the Aavegotchi protocol from your wallet. 
+To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering it's surface**, to work as a soild surface for the Seed and the future Tree.
+Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
+
+It's imposible to move or unequip planted Seed or Tree, unless you destroy it or cut it with "forest axe"(Tree) or "gardening pickaxe"(Seed) that you can buy in Maal. 
+If your seed grow it's roots already, then you also need to buy "root remover" from Maal.
+After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
+If destruction of the plant is not an option, you can buy "shiny shovel" and "extra gloves" in the maal in order to dig it up and move. 
+
+Each of the Maal item related to Gardening have 1 time use per action and after using it, it's been destroyed (nft burn).
+
+C.2) Seed\Tree UI
 
 Seed and Tree UI is the same. 
 
+Seed\Tree UI includes:
+
+"Nurture" button = process of feeding your tree.
+
+Nurturing(Feeding) process in few words:
+Alchemica cost + Channeling ability burn = 2 conditions that must to be met in order of your Seed or Tree got fed.
+
 It'll work opposite way to Altair. The mechanics will be near the same, just reversed.
 
-C.1) Placing the Seed and starting the growing process: 
 
-Seed must to be in your wallet (or gotchi pocket, that you can deposit through the Aavegotchi protocol from your wallet). 
+Mechanics of Botanica project implementation and it's benefits to Gotchiverse:
 
-To place the Seed and to start its growing process, your parcel must to have any kind of tile covering it's surface, to work as a soil for the Seed and the future Tree.
-
-Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
-
-It's imposible to move or unequip planted Seed or Tree, unless you destroy it or cut it with axe(Tree) or pickaxe(Seed).
-
-After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
-
-Seed is predefined, how many “slots” it occupies to be placed on the parcel, as it defines the graphic space it occupies for the future Tree. Size of the Seed = size of the Tree.
-
-C.2) Feeding and growth processes:
-
-Feeding process in few words:
-Alchemica feeding price + Channeling ability burn = 2 conditions that must to be met in order of your Seed or Tree got fed.
-
-* Alchemica sink - Your gotchi is coming to the Seed or Tree, to fulfill the needs of your Seed or Tree (daily required alchemica price). 
-* Reversed channeling process - While spending alchemica on feeding, Gotchis also burning it's channeling ability until the reset time. (This kind of action do not burn gotchi kinship\aka legacy channeling rule\. This kind of action do not give you any alchemica, your channeling ability burnt + alchemica spent.)  
-* Tree feeding process is acting the same way as Gotchis reseting channeling ability = Your tree can be fed anytime in 24 hrs. 
-* Tree feeding timer get a reset ant the same time as gotchis getting channeling ability reset, 00.00 UTC.
-* Trees feeding conditions is acting as a reversed reservoirs. Isnted of accumulating of alchemica - it's accumulating it's cost of the feed, but growth bar is not going to be fulfilled without channeling spent on it in time. 
-* Each growing stage of Seed to become a Timeless Tree, will require different amount of alchemica and times of be fed (depends on the stage and types of Trees), that needs to be spent on the Tree. 
-* This kind actions going to fill up the growing process bar which is conts in "tree rings". 
-* By doing so your Gotchi will gain Gardening skill.  
-* Gardening skill will give you a discount on the cost of growth, it's progress and Age claims. 
+* *Alchemica sink - Your gotchi is coming to the Seed or Tree, to fulfill the needs of your Seed or Tree (daily required alchemica price). 
+* *Reversed channeling process - While spending alchemica on feeding, Gotchis also burning it's channeling ability until the reset time. (This kind of action do not burn gotchi kinship\aka legacy channeling rule\. This kind of action do not give you any alchemica, your channeling ability burnt + alchemica spent.)  
+* *Tree feeding process is acting the same way as Gotchis reseting channeling ability = Your tree can be fed anytime in 24 hrs.
+* *Tree feeding timer get a reset ant the same time as gotchis getting channeling ability reset, 00.00 UTC.
+* *Each growing stage of Seed to become a Timeless Tree, will require different amount of alchemica and times of be fed (depends on the stage and types of Trees), that needs to be spent on the Tree. 
+* *This kind actions going to fill up the growing process bar which is conts in "tree rings". 
+* *By doing so your Gotchi will gain Gardening skill.  
+* *Gardening skill will give you a discount on the cost of growth and incresing your odds on succesful reward claims. 
 
 C.3) Aging and claims of aging Trees - Jubilee 
 
