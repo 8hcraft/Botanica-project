@@ -1,7 +1,7 @@
 # Botanica-project
 Botanica is an ultimate update for Gotchiverse, with the unique gameplay and Alchemica utility sinks.
 
-A) What is Botanica?
+**A) What is Botanica?**
 
 Botanica is the science about *Plants*.
 Plants is everything that grows from the soil - ***Trees** , herbs, fruits and berries, veggies and mushrooms*.
@@ -13,7 +13,7 @@ All kinds of plants are grown on your parcel - your parcel is your garden itself
 Size of the Seed = size of the Tree. (Seed=Tree)
 Trees and Seed are commonly 2x2 sized installations, but it's all depends on the type of Seeds\Trees.
 
-B) Botanica distribution, Tiles utilities for planting Seeds and infinity items of Maal
+**B) Botanica distribution, Tiles utilities for planting Seeds and infinity items of Maal**
 
 All types of Botanica will be grown from the Seeds. Initially Seeds will come through "Genesis cones" distribution event. 
 
@@ -25,18 +25,16 @@ Genesis cones will be airdroped to all of holders of the main assets, such as go
 Proportions of distribution per asset will be announced later.
 All Genesis cones will have even odds for a success to obtain seeds.
 
-B.2) Tiles utilities and new soil tile
+**B.2) Tiles utilities and new Soil tile**
 
-Planting seeds and growing process: 
-
-In order to start growing process your Seeds must to be placed on the parcel that covered with any tiles. 
+In order to start growing process your Seeds must to be planted on the parcel that covered with any tiles. 
 For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.05 ghst).
 
 Seed must to be in your *gotchi pocket*, that you can deposit through the Aavegotchi protocol from your wallet. 
 To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering it's surface**, to work as a soild surface for the Seed and the future Tree.
 Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
 
-B.3) Infinity items of Maal
+**B.3) Infinity items of Maal**
 
 Since it's imposible to move or unequip planted Seed or Tree, you need **Gardening instruments** unless you destroy it or cut it with "forest axe"(Tree) or "gardening pickaxe"(Seed) that you can buy in Maal. 
 If your seed grow it's roots already, then you also need to buy "root remover" from Maal.
@@ -45,8 +43,8 @@ If destruction of the plant is not an option, you can buy "shiny shovel" and "ex
 
 Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burn).
 
-C) Gameplay 
-*C.1) Planting seeds and growing process
+**C) Gameplay**
+C.1) Planting seeds and growing process
 C.2) Seed\Tree UI
 
 C.1) 
