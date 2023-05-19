@@ -6,7 +6,7 @@ TL;DR
 Mechanics of Botanica project implementation and it's benefits to Gotchiverse:
 
 * Alchemica sink - Your gotchi is coming to the Seed or Tree, to fulfill the needs of your Seed or Tree (daily required alchemica price). 
-* Reversed channeling process - While spending alchemica on feeding, Gotchis also burning it's channeling ability until the reset time. (This kind of action do not burn gotchi kinship\aka legacy channeling rule\. This kind of action do not give you any alchemica, your channeling ability burnt + alchemica spent.)  
+* Reversed channeling process - While spending alchemica on feeding, Gotchis also burning it's channeling ability until the reset time, by interacting with tree. (This kind of action do not burn gotchi kinship\aka legacy channeling rule\. This kind of action do not give you any alchemica, your channeling ability burnt + alchemica spent.)  
 * Tree feeding process is acting the same way as Gotchis reseting channeling ability = Your tree can be fed anytime in 24 hrs.
 * Tree feeding timer get a reset ant the same time as gotchis getting channeling ability reset, 00.00 UTC.
 * Each growing stage of Seed to become a Timeless Tree, will require different amount of alchemica and times of be fed (depends on the stage and types of Trees), that needs to be spent on the Tree. 
@@ -33,7 +33,7 @@ All types of Botanica will be grown from the Seeds. Initially Seeds will come th
 Botanica distribution:
 
 Botanica will be distributed via Genesis cones distribution event.
-Genesis cones will be airdroped to all of holders of the main assets, such as gotchis and parcels. (Probably this action shuold take a place with the GotchiChain release, to take a snapshot of active users) 
+Genesis cones will be airdroped to all of holders of the main assets, such as gotchis and parcels. 
 
 Proportions of distribution per asset will be announced later.
 All Genesis cones will have even odds for a success to obtain seeds.
@@ -43,6 +43,9 @@ All Genesis cones will have even odds for a success to obtain seeds.
 In order to start growing process your Seeds must to be planted on the parcel. 
 
 Seed must to be in your *gotchi pocket*, that you can deposit through the Aavegotchi protocol from your wallet. 
+
+In Gotchiverse, seed will appear in your **Building mode** same as any instalation.
+
 To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering it's surface**, to work as a soild surface for the Seed and the future Tree.
 Before placing the Seed on the tile, think wisely, because after you place the seed on it, tile will loose it's ability to be moved (seed is "glued" to it).
 
@@ -55,15 +58,16 @@ List of the proposed instruments for Gardening:
 
 * Pair of gloves - Item that's needed for any kind of earthwork;
 * Forest Axe - Axe that can cut down the grown tree;
+* Midget pickaxe - Instrument that is used to destroy the seed;
 * Light shovel - Tool to dig out the Seed(or Shrubs in the future);
 * Shiny shovel - Tool to dig out the Tree or Stump;
 * Roots remover - Tool to remove the roots of grown seeds, sprouts and saplings after it's excavations;
 * Grubber - Heavy tool to remove roots of grown Trees or Stumps after it's excavations;
-* Pots - eacj 
-* Wheelbarrow - Used in order to move your tree around the parcel freely, after diging it up;
+
+* **+More
 
 After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
-If destruction of the plant is not an option, you can buy "shiny shovel" and "extra gloves" in the maal in order to dig it up and move. 
+If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves gloves" in the maal in order to dig it up and move. 
 
 Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burn).
 
