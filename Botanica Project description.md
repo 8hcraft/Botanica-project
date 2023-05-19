@@ -75,6 +75,7 @@ List of the proposed instruments for Gardening:
 * Bug spray -
 * Hacksaw -
 * Lightning rod -
+* Harvesting multitool - mega knife that have everything inside of it for harvesting and seed extracting procedures;
 * Custom tree skins that will be availible to be rolled out by the community after succesful proposals accepted by the DAO.
 
 * **+More
@@ -89,9 +90,10 @@ Seed\Tree UI includes:
 
 A) **"Nurture"** button.
 
-Nurture is a process of tree caretaking and feeding it  = action that grows your tree or keeping it sustained.
+Nurture is a process of tree caretaking. It's an action that grows your tree or keeping it sustained and fed. 
+By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
 
-From seed form to fully grown and well Aged Tree, that might become Timeless tree, the only thing that all of the Trees need, is a Gotchi Gardners. 
+From seed germination to fully grown and well Aged Tree (that might become Timeless tree), the only thing that all of the Trees need, is a Gotchi Gardners. 
 Gotchi Gardners will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
 
 Nurturing(Feeding) process in few words:
@@ -103,12 +105,15 @@ To be able to **Nurture** the Tree you need to have:
 
 *Spending Gotchi channeling on the tree, burns only Channeling, **without** affecting Gotchi **kinship**.*
 
-After succesful Nurturing action done by Gotchi, your Tree gains **1 "Tree ring"**.
+**Nurture button** timer **resets** at the same time as Gotchis channeling ability **at 00:00 UTC**.
+
+After successful Nurturing action done by Gotchi, your Tree consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**.
 
 B) **"Tree Rings" indicator**
 
  Tree ring is a number that indicates you tree stage of growth.
- By riching certain limit of Tree Rings 
+ By riching certain limit of Tree Rings your tree will hit the cap of it's current growth stage.
+ After reeaching your cap of current stage of growth, your tree need's to caim a new stage of it's growth by aging mechanic that called as **"Jubilee"**.
 
 C) "Jubilee"
 
