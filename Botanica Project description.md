@@ -158,10 +158,10 @@ D) **"Jubilee"** button:
 
 From Seed to Timeless Trees - there are 7 age periods that could be claimed for trees after seed has been grown - Sprout, Sapling, Young Tree, Adult Tree, Elder Tree, Ancient Tree, Timeless Tree.
 
-**Jubilee is** a celebration day for Trees owners and Gotchi Gardeners - **Age claiming time**.     
-At this day Trees could get older by claiming it's reached age. It's the transitional moment of Trees going to the next stage of its growth.     
+**Jubilee is** a celebration day for Trees owners and Gotchi Gardeners - **Age claiming time**.  
+At this day Trees could get older by claiming it's reached age. It's the transitional moment of Trees going to the next stage of its growth.  
 Tree owners are throwing parties to get the attention of the other Gotchi Gardeners in the matter of the Jubilee celebration.  
-A Specific number of gotchis must stay on your parcel with the aging tree, in order to celebrate the Jubilee together.   
+A Specific number of gotchis must stay on your parcel with the aging tree, in order to celebrate the Jubilee together.  
 
 !?All the gotchis attending the party receiving +1 Gardening skill?!
 
