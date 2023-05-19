@@ -70,15 +70,18 @@ List of the proposed instruments for Gardening:
 * Shiny shovel - Excavation tool to dig out the Tree or Stump;
 * Roots remover - Roots removing tool of grown seeds, sprouts and saplings after it's excavations;
 * Grubber - Heavy tool to remove roots of grown Trees or Stumps after it's excavations;
+* Rake - Useful thing in case of recent earthworks;
 * Soil - New 1x1 fully brown tile to cover the surface under the tree. Soil tile will be consumed after placing seed or tree on it;
 * Sulfuric acid - No need to use Grubber and Shovels, this thing will get rid of anything that you grow on the Tile, but this item also will give forbid you to grow or build anything on it's cells for a period of time.
-* Bug spray -
-* Hacksaw -
-* Lightning rod -
+* Bug spray - get rid of this bugs, now!
+* Pruner - Usefull thing if you want to take care of your tree and planning to make some Bonsai;
+* Pot - Simple pot that's needed for Bonsai to live forever;
+* Lightning rod - protects your tree from 1 lightning strike;
 * Harvesting multitool - mega knife that have everything inside of it for harvesting and seed extracting procedures;
 * Custom tree skins that will be availible to be rolled out by the community after succesful proposals accepted by the DAO.
+* Bonus skin addons after reaching tree max age - Shiny Rainbow, Lonely Nimbus, Sus butterflies, Mini Rofls, Tech Rabbits, Sleepy Crescent, etc.
 
-* **+More
+* +More
 
 ?Gardening skill per action or per day?
 
@@ -91,7 +94,6 @@ Seed\Tree UI includes:
 A) **"Nurture"** button:
 
 Nurture is a process of tree caretaking. It's an action that grows your tree or keeping it sustained and fed. 
-By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
 
 From seed germination to fully grown and well Aged Tree (that might become Timeless tree), the only thing that all of the Trees need, is a Gotchi Gardners. 
 Gotchi Gardners will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
@@ -107,31 +109,55 @@ To be able to **Nurture** the Tree you need to have:
 
 **Nurture button** timer **resets** at the same time as Gotchis channeling ability **at 00:00 UTC**.
 
-After successful Nurturing action done by Gotchi, your Tree consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your Gotchi Gardenin skill +1 per Nurturing.
+When Gotchi Gardners are Nurturing the Trees, Trees consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your Gotchi Gardenin skill +1 per Nurturing.
+By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
+Every Nurturing resets timer of Tree **Loneliness** status.
 
-B) **"Tree Rings"** indicator:
+B) **Loneliness** status: 
+
+Loneliness is a status of your Tree. 
+    If you are not taking care of your Tree in 96 hours, it becomes lonely.
+
+Lonely Tree attracts nearest Nimbus that is passing by. 
+    While staying alone, without the Gotchi Gardener, Numbus absorbing the vapours of water, that lonely Tree producing by it's breath. 
+When Numbus absorb enought of water it's starts to gain rage and getting upset. 
+    Such a feelings makes Nimbus feel bad and angry on the owner of the Tree. 
+But by disability of controling it's emotions, Numbus relesing the lightning that strikes the Tree, burning it, crippling it and makes it become a stump. 
+
+**Loneliness** in a few words:
+1) **Tree** that **arn't been Nurtured** getting lonely, and **starting it's timer** of Loneliness;
+2) **After** been lonely for **96 hours** your tree getting crippled by the lightinig, and becomes useless(almost) stump.
+
+C) **"Tree Rings"** indicator:
 
  Tree ring is a number that indicates you tree stage of growth.
  By riching certain limit of Tree Rings your tree will hit the cap of it's current growth stage.
     After reaching it's cap of current stage of growth on the particular tree, your tree need to caim a new stage of it's growth by aging mechanic that called as **"Jubilee"**.
 
-C) **"Jubilee"** button:
+D) **"Jubilee"** button:
 
 From Seed to Timeless Trees - there are 7 age periods that could be claimed for trees after seed been grown - Sprout, Sapling, Young Tree, Adult Tree, Elder Tree, Ancient Tree, Timeless Tree.
 
-Jubilee is a cebration day for Trees owners and Gotchi Gardeners. 
+**Jubilee is** a cebration day for Trees owners and Gotchi Gardeners - **Age claiming time**. 
     At this day Trees could get older by claiming it's reached age. It's transitional moment of Trees going to next stage of it's growth. 
     Trees owners are throwing the parties to get attention of the other Gotchi Gardeners in the matter of Jubilee celebration.
-Specific number of gotchis must to stay on your parcel with the Agin tree, to in order to celebrate Jubilee. 
+Specific number of gotchis must to stay on your parcel with the agin tree, to in order to celebrate Jubilee together. 
 
+**Jubilee** in few words:
+1) Certain number of tree rings (max cap at the current age)
+2) Certain number of gotchis on your parcel at the time of Jubilee (age claiming)
 
+If two of this criterias are met, then you will be able to get to get to the new stage of tree growth, by claiming the age through Jubilee.
+
+ *You will be able to continue Nurturing the tree, in case if you cannot gather the party for Jubilee age claiming, but no tree rings will be added, since the cap of the tree growth couldn't be passed through.*
+
+Every Age of the Tree have it's own graphical design. 
 
 ?Do we set up party channeling spendings on Jubilee? 
-   
+ 
 
-   
-Only Trees will be able to have a special ability to be aged in Botanica update. 
-After continuosly care giving actions by your Gotchi Gardners, Trees will accumulate your Love, and at some point will be able to change it's form to the Older version. 
 
-Loneliness - 
+
+
+
 
