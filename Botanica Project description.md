@@ -11,7 +11,7 @@ Mechanics of Botanica project implementation and it's benefits to Gotchiverse:
 * Tree feeding timer get a reset ant the same time as gotchis getting channeling ability reset, 00.00 UTC.
 * Each growing stage of Seed to become a Timeless Tree, will require different amount of alchemica and times of be fed (depends on the stage and types of Trees), that needs to be spent on the Tree. 
 * This kind actions going to fill up the growing process bar which is conts in "tree rings". 
-* By doing so your Gotchi will gain Gardening skill.  
+* By doing so, your **Gotchi Gardener gaining Gardening skill**.  
 * Gardening skill will give you a discount on the cost on growth and incresing your odds on succesful reward claims. 
 
 **I) What is Botanica?**
@@ -114,7 +114,7 @@ To be able to **Nurture** the Tree you need to have:
 
 **Nurture button** timer **resets** at the same time as Gotchis channeling ability **at 00:00 UTC**.
 
-When Gotchi Gardners are Nurturing the Trees, Trees consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your Gotchi Gardenin skill +1 per Nurturing.
+When Gotchi Gardners are Nurturing the Trees, Trees consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your **Gotchi Gardener skill +1 per Nurturing**.
 
     By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
     Every Nurturing resets timer of Tree **Loneliness** status.
@@ -149,6 +149,8 @@ From Seed to Timeless Trees - there are 7 age periods that could be claimed for 
     Trees owners are throwing the parties to get attention of the other Gotchi Gardeners in the matter of Jubilee celebration.
 Specific number of gotchis must to stay on your parcel with the agin tree, to in order to celebrate Jubilee together. 
 
+!?All the gotchis attending the party reciving +1 Gardening skill?!
+
 **Jubilee** in few words:
 1) Certain number of tree rings (max cap at the current age)
 2) Certain number of gotchis on your parcel at the time of Jubilee (age claiming)
@@ -159,7 +161,7 @@ If two of this criterias are met, then you will be able to get to get to the new
 
 Every Age of the Tree have it's own graphical design. 
 
-?Do we set up party channeling spendings on Jubilee? 
+!?Do we set up party channeling spendings on Jubilee?!
  
 E) **Shake the Tree** button:
 
@@ -168,6 +170,7 @@ Every Gotchi Gardener is feeling blessed and excited about the harvest that's wo
     To obtain the rewards, incliuding tree seed, Gotchi Gardner need to come to the Tree, and shake it in order to try it's luck.
 
 **Shake the Tree** is a VRF call, that using formula of Gardening skill per wallet, calculating your total efforts and fails that been made by you, as a Gardener.
+You are able to click on the Harvest button any time, but keep in mind, that your Gardening skill affecting it's odds on the succes 
 
 
 
