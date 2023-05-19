@@ -44,15 +44,16 @@ Seed must be in your *gotchi pocket*, that you can deposit through the Aavegotch
 
 In Gotchiverse, seed will appear in your **Building mode** same as any installation.
 
-To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering its surface**, to work as a soiled surface for the Seed and the future Tree.Before placing the Seed on the tile, think wisely, because after you place the seed on it, the tile will lose its ability to be moved (seed is "glued" to it).
+To start growing your Seeds, your **parcel** must to **have** any kind of **tile covering its surface**, to work as a soiled surface for the Seed and the future Tree.     Before placing the Seed on the tile, think wisely, because after you place the seed on it, the tile will lose its ability to be moved (seed is "glued" to it).
 
 **IV. Infinity items of Maal**
 
-For those who don't have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles that will be always on sale in the DAO Maal (1x1 "Soil" tiles price 0.01 ghst).
-Since it's impossible to move or unequip planted Seed or Tree that has been placed on the tiled parcel, you need **Gardening instruments** in order to regain access to your tiles.
+For those who don't have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles that will be always on sale in the DAO Maal (1x1 "Soil" tiles price 0.01 ghst). 
+ Since it's impossible to move or unequip planted Seed or Tree that has been placed on the tiled parcel, you need **Gardening instruments** in order to regain access to your tiles.
 
 There are only two ways to get your tiles back:
-    1) Seed or Tree demolition;
+
+    1) Seed or Tree demolition; 
     2) Excavation of seed or tree.After demolishing the Seed or the Tree and its roots, you will be able to do anything with the tile underneath.
 
 If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves" in the maal in order to dig it up, and to move it, you have to get "wheelbarrow".
