@@ -88,7 +88,7 @@ Seed and Tree UI is the same.
 
 Seed\Tree UI includes:
 
-A) **"Nurture"** button.
+A) **"Nurture"** button:
 
 Nurture is a process of tree caretaking. It's an action that grows your tree or keeping it sustained and fed. 
 By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
@@ -107,17 +107,28 @@ To be able to **Nurture** the Tree you need to have:
 
 **Nurture button** timer **resets** at the same time as Gotchis channeling ability **at 00:00 UTC**.
 
-After successful Nurturing action done by Gotchi, your Tree consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**.
+After successful Nurturing action done by Gotchi, your Tree consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your Gotchi Gardenin skill +1 per Nurturing.
 
-B) **"Tree Rings" indicator**
+B) **"Tree Rings"** indicator:
 
  Tree ring is a number that indicates you tree stage of growth.
  By riching certain limit of Tree Rings your tree will hit the cap of it's current growth stage.
- After reeaching your cap of current stage of growth, your tree need's to caim a new stage of it's growth by aging mechanic that called as **"Jubilee"**.
+    After reaching it's cap of current stage of growth on the particular tree, your tree need to caim a new stage of it's growth by aging mechanic that called as **"Jubilee"**.
 
-C) "Jubilee"
+C) **"Jubilee"** button:
 
+From Seed to Timeless Trees - there are 7 age periods that could be claimed for trees after seed been grown - Sprout, Sapling, Young Tree, Adult Tree, Elder Tree, Ancient Tree, Timeless Tree.
+
+Jubilee is a cebration day for Trees owners and Gotchi Gardeners. 
+    At this day Trees could get older by claiming it's reached age. It's transitional moment of Trees going to next stage of it's growth. 
+    Trees owners are throwing the parties to get attention of the other Gotchi Gardeners in the matter of Jubilee celebration.
+Specific number of gotchis must to stay on your parcel with the Agin tree, to in order to celebrate Jubilee. 
+
+
+
+?Do we set up party channeling spendings on Jubilee? 
    
+
    
 Only Trees will be able to have a special ability to be aged in Botanica update. 
 After continuosly care giving actions by your Gotchi Gardners, Trees will accumulate your Love, and at some point will be able to change it's form to the Older version. 
