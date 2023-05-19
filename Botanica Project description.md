@@ -12,7 +12,7 @@ Mechanics of Botanica project implementation and its benefits to Gotchiverse:
 * Tree feeding process is acting the same way as Gotchis resetting channeling ability = Your tree can be fed anytime in 24 hrs;
 * Tree feeding timer gets a reset at the same time as gotchis getting channeling ability reset, 00.00 UTC;
 * Each growing stage of Seed to become a Timeless Tree, will require different amounts of alchemica and times of being fed (depends on the stage and types of Trees), that needs to be spent on the Tree;
-* These kind actions are going to fill up the growing process bar which is conts in "tree rings";
+* These kind actions are going to fill up the growing process bar which is const in "tree rings";
 * By doing so, your **Gotchi Gardener gaining Gardening skill**;
 * Gardening skill will give you a discount on the cost of growth and increase your odds on successful reward claims. 
 
@@ -33,8 +33,10 @@ All types of Botanica will be grown from the Seeds. Initially Seeds will come th
 
 Botanica distribution:
 
-Botanica will be distributed via Genesis cones distribution event.Genesis cones will be airdropped to all of the holders of the main assets, such as gotchis and parcels. 
-Proportions of distribution per asset will be announced later. All Genesis cones will have even odds for a success to obtain seeds.
+Botanica will be distributed via Genesis cones distribution event. Genesis cones will be airdropped to all of the holders of the main assets, such as gotchis and parcels. 
+
+Proportions of distribution per asset will be announced later.
+All Genesis cones will have even odds for a success to obtain seeds.
 
 **III. Tiles utilities for planting Seeds**
 
@@ -49,7 +51,8 @@ To start growing your Seeds, your **parcel** must to **have** any kind of **tile
 **IV. Infinity items of Maal**
 
 For those who don't have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles that will be always on sale in the DAO Maal (1x1 "Soil" tiles price 0.01 ghst). 
- Since it's impossible to move or unequip planted Seed or Tree that has been placed on the tiled parcel, you need **Gardening instruments** in order to regain access to your tiles.
+
+Since it's impossible to move or unequip planted Seed or Tree that has been placed on the tiled parcel, you need **Gardening instruments** in order to regain access to your tiles.
 
 There are only two ways to get your tiles back:
 
@@ -59,7 +62,7 @@ There are only two ways to get your tiles back:
 If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves" in the maal in order to dig it up, and to move it, you have to get "wheelbarrow".
 After all of the excavations, you still have to remove the roots, in order to gain access to your tile underneath. 
 
-Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burned).
+Each of the Maal **Gardening instruments** have 1 time use per action and after using it, it will be destroyed (nft burned).
 
 List of the proposed instruments for Gardening:
 
