@@ -53,8 +53,8 @@ For those who don't have any tiles, we are proposing to make new, unlimited supp
 
 There are only two ways to get your tiles back:
 
-    1) Seed or Tree demolition; 
-    2) Excavation of seed or tree.After demolishing the Seed or the Tree and its roots, you will be able to do anything with the tile underneath.
+1) Seed or Tree demolition; 
+2) Excavation of seed or tree.After demolishing the Seed or the Tree and its roots, you will be able to do anything with the tile underneath.
 
 If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves" in the maal in order to dig it up, and to move it, you have to get "wheelbarrow".
 After all of the excavations, you still have to remove the roots, in order to gain access to your tile underneath. 
