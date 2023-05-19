@@ -71,6 +71,11 @@ List of the proposed instruments for Gardening:
 * Roots remover - Roots removing tool of grown seeds, sprouts and saplings after it's excavations;
 * Grubber - Heavy tool to remove roots of grown Trees or Stumps after it's excavations;
 * Soil - New 1x1 fully brown tile to cover the surface under the tree. Soil tile will be consumed after placing seed or tree on it;
+* Sulfuric acid - No need to use Grubber and Shovels, this thing will get rid of anything that you grow on the Tile, but this item also will give forbid you to grow or build anything on it's cells for a period of time.
+* Bug spray -
+* Hacksaw -
+* Lightning rod -
+* Custom tree skins that will be availible to be rolled out by the community after succesful proposals accepted by the DAO.
 
 * **+More
 
@@ -82,24 +87,32 @@ Seed and Tree UI is the same.
 
 Seed\Tree UI includes:
 
-A) "Nurture" button = process of tree caretaking and feeding it. 
-Nurture is an action that grows your tree or keeping it sustained.
+A) **"Nurture"** button.
 
-From seed to Timeless tree, the only thing that all of the Trees need, is a Gotchi Gardners, that will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
+Nurture is a process of tree caretaking and feeding it  = action that grows your tree or keeping it sustained.
+
+From seed form to fully grown and well Aged Tree, that might become Timeless tree, the only thing that all of the Trees need, is a Gotchi Gardners. 
+Gotchi Gardners will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
 
 Nurturing(Feeding) process in few words:
-Alchemica cost + Channeling ability burn = 2 conditions that must to be met in order of your Seed or Tree got fed.
+**Alchemica** cost + **Channeling ability burn** = 2 conditions that must to be met in order of your Seed or Tree got fed, and been grown, getting closer to the next stage of it's Age.
 
-To be able to Nurture the Tree you need to have:
-1) Gotchi that able to spend it's channeling;
-2) Enough of alchemica to Nurture the Tree.
+To be able to **Nurture** the Tree you need to have:
+1) **Gotchi** that able to spend it's **channeling**;
+2) Enough of **alchemica** to Nurture the Tree.
 
+*Spending Gotchi channeling on the tree, burns only Channeling, **without** affecting Gotchi **kinship**.*
 
-C.3) Aging and claims of aging Trees - Jubilee 
+After succesful Nurturing action done by Gotchi, your Tree gains **1 "Tree ring"**.
 
+B) **"Tree Rings" indicator**
 
+ Tree ring is a number that indicates you tree stage of growth.
+ By riching certain limit of Tree Rings 
 
+C) "Jubilee"
 
+   
    
 Only Trees will be able to have a special ability to be aged in Botanica update. 
 After continuosly care giving actions by your Gotchi Gardners, Trees will accumulate your Love, and at some point will be able to change it's form to the Older version. 
