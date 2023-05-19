@@ -52,48 +52,54 @@ Before placing the Seed on the tile, think wisely, because after you place the s
 **IV) Infinity items of Maal**
 
 For those who dont have any tiles, we are proposing to make new, unlimited supply, non-bazaar tradable Soil tiles, that will be always on the sale in the DAO Maal (1x1 "Soil" tiles priced in 0.05 ghst).
-Since it's imposible to move or unequip planted Seed or Tree, that been placed on the tiled parcel, you need **Gardening instruments**.
+Since it's imposible to move or unequip planted Seed or Tree, that been placed on the tiled parcel, you need **Gardening instruments** in order to regain access to your tiles.
 
+There is only two ways to get your tiles back:
+1) Seed or tree demolition;
+2) Excavation of seed or tree.
+After demolishing the Seed or the Tree and it's roots, you will be able to do anything with the tile underneath.
+If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves gloves" in the maal in order to dig it up and move, but after doing so, you still have to remove the roots, in oreder to gain access to your tile underneath. 
+
+Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burn).
 List of the proposed instruments for Gardening:
 
-* Pair of gloves - Item that's needed for any kind of earthwork;
+* Pair of gloves - Item that's needed for any kind of earthworks;
 * Forest Axe - Axe that can cut down the grown tree;
 * Midget pickaxe - Instrument that is used to destroy the seed;
-* Light shovel - Tool to dig out the Seed(or Shrubs in the future);
-* Shiny shovel - Tool to dig out the Tree or Stump;
-* Roots remover - Tool to remove the roots of grown seeds, sprouts and saplings after it's excavations;
+* Light shovel - Excavation tool to dig out the Seed(or Shrubs in the future);
+* Shiny shovel - Excavation tool to dig out the Tree or Stump;
+* Roots remover - Roots removing tool of grown seeds, sprouts and saplings after it's excavations;
 * Grubber - Heavy tool to remove roots of grown Trees or Stumps after it's excavations;
+* Soil - New 1x1 fully brown tile to cover the surface under the tree. Soil tile will be consumed after placing seed or tree on it;
 
 * **+More
 
-After destroying the Seed or the Tree, you will be able to do anything with the tile underneath.
-If destruction of the plant is not an option, you can buy "shiny shovel" and "Pair of gloves gloves" in the maal in order to dig it up and move. 
+?Gardening skill per action or per day?
 
-Each of the Maal **Gardening item** have 1 time use per action and after using it, it will be destroyed (nft burn).
-
-**V) Gameplay**
-A) Planting seeds and growing process
-B) Seed\Tree UI
-С) 
-
-C.1) 
-
-C.2) Seed\Tree UI
+**V) Seed\Tree UI**
 
 Seed and Tree UI is the same. 
 
 Seed\Tree UI includes:
 
-"Nurture" button = process of feeding your tree.
+A) "Nurture" button = process of tree caretaking and feeding it. 
+Nurture is an action that grows your tree or keeping it sustained.
+
+From seed to Timeless tree, the only thing that all of the Trees need, is a Gotchi Gardners, that will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
 
 Nurturing(Feeding) process in few words:
 Alchemica cost + Channeling ability burn = 2 conditions that must to be met in order of your Seed or Tree got fed.
 
-It'll work opposite way to Altair. The mechanics will be near the same, just reversed.
+To be able to Nurture the Tree you need to have:
+1) Gotchi that able to spend it's channeling;
+2) Enough of alchemica to Nurture the Tree.
+
 
 C.3) Aging and claims of aging Trees - Jubilee 
 
-From seed to sapling, the only thing that Gotchi Gardners need, is a care that they give to the trees - feeding it's with alchemica and pray for the healthy tree growth (Alchemica+Channeling burn).
+
+
+
    
 Only Trees will be able to have a special ability to be aged in Botanica update. 
 After continuosly care giving actions by your Gotchi Gardners, Trees will accumulate your Love, and at some point will be able to change it's form to the Older version. 
