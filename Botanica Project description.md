@@ -90,13 +90,18 @@ List of the proposed instruments for Gardening:
 Seed and Tree UI is the same. 
 
 Seed\Tree UI includes:
+A) "Nurture" button;
+B) "Loneliness" status;
+C) "Tree rings" indicator;
+D) "Jubilee" button;
+E) "Shake the tree" button.
 
 A) **"Nurture"** button:
 
 Nurture is a process of tree caretaking. It's an action that grows your tree or keeping it sustained and fed. 
 
-From seed germination to fully grown and well Aged Tree (that might become Timeless tree), the only thing that all of the Trees need, is a Gotchi Gardners. 
-Gotchi Gardners will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
+From seed germination to fully grown and well Aged Tree (that might become Timeless tree), the only thing that all of the Trees needed, are Gotchi Gardners taking care of them. 
+    Gotchi Gardners will take care of the Trees - feeding them with lifegiving alchemica, nurturing them and praying for healthy tree growth.
 
 Nurturing(Feeding) process in few words:
 **Alchemica** cost + **Channeling ability burn** = 2 conditions that must to be met in order of your Seed or Tree got fed, and been grown, getting closer to the next stage of it's Age.
@@ -110,23 +115,24 @@ To be able to **Nurture** the Tree you need to have:
 **Nurture button** timer **resets** at the same time as Gotchis channeling ability **at 00:00 UTC**.
 
 When Gotchi Gardners are Nurturing the Trees, Trees consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your Gotchi Gardenin skill +1 per Nurturing.
-By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
-Every Nurturing resets timer of Tree **Loneliness** status.
+
+    By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
+    Every Nurturing resets timer of Tree **Loneliness** status.
 
 B) **Loneliness** status: 
 
 Loneliness is a status of your Tree. 
     If you are not taking care of your Tree in 96 hours, it becomes lonely.
 
-Lonely Tree attracts nearest Nimbus that is passing by. 
-    While staying alone, without the Gotchi Gardener, Numbus absorbing the vapours of water, that lonely Tree producing by it's breath. 
-When Numbus absorb enought of water it's starts to gain rage and getting upset. 
-    Such a feelings makes Nimbus feel bad and angry on the owner of the Tree. 
-But by disability of controling it's emotions, Numbus relesing the lightning that strikes the Tree, burning it, crippling it and makes it become a stump. 
-
 **Loneliness** in a few words:
 1) **Tree** that **arn't been Nurtured** getting lonely, and **starting it's timer** of Loneliness;
 2) **After** been lonely for **96 hours** your tree getting crippled by the lightinig, and becomes useless(almost) stump.
+
+Lonely Tree attracts nearest Nimbus that is passing by. 
+    While staying alone, without the Gotchi Gardener Nurturing it, Numbus sticks around and absorbing the vapours of water, that lonely Tree producing by it's breath. 
+When Numbus absorb enought of water it's starts to gain rage and getting upset that no one is brining fresh water to the Tree. 
+    Such a feelings makes Nimbus feel bad and angry on the owner of the Tree. 
+But by disability of controling it's emotions, Numbus relesing the lightning that strikes the Tree, burning it, crippling it and makes it become a stump. 
 
 C) **"Tree Rings"** indicator:
 
@@ -155,6 +161,13 @@ Every Age of the Tree have it's own graphical design.
 
 ?Do we set up party channeling spendings on Jubilee? 
  
+E) **Shake the Tree** button:
+
+Every Gotchi Gardener is feeling blessed and excited about the harvest that's worthy of its deeds.
+
+    To obtain the rewards, incliuding tree seed, Gotchi Gardner need to come to the Tree, and shake it in order to try it's luck.
+
+**Shake the Tree** is a VRF call, that using formula of Gardening skill per wallet, calculating your total efforts and fails that been made by you, as a Gardener.
 
 
 
