@@ -116,8 +116,8 @@ To be able to **Nurture** the Tree you need to have:
 
 When Gotchi Gardners are Nurturing the Trees, Trees consumes the water, evaporate the rest from the ground and by breathing, then produce Numbus by it's vapours. In the end your tree gains **1 "Tree ring"**. Also, Nurturing grows your **Gotchi Gardener skill +1 per Nurturing**.
 
-    By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
-    Every Nurturing resets timer of Tree **Loneliness** status.
+By Nurturing your tree, you are making your tree feel needed and loved, because without your attention your tree will feel lonely and will fall into **Loneliness**.
+Every Nurturing resets timer of Tree **Loneliness** status.
 
 B) **Loneliness** status: 
 
@@ -167,7 +167,7 @@ E) **Shake the Tree** button:
 
 Every Gotchi Gardener is feeling blessed and excited about the harvest that's worthy of its deeds.
 
-    To obtain the rewards, incliuding tree seed, Gotchi Gardner need to come to the Tree, and shake it in order to try it's luck.
+To obtain the rewards, incliuding tree seed, Gotchi Gardner need to come to the Tree, and shake it in order to try it's luck.
 
 **Shake the Tree** is a VRF call, that using formula of Gardening skill per wallet, calculating your total efforts and fails that been made by you, as a Gardener.
 You are able to click on the Harvest button any time, but keep in mind, that your Gardening skill affecting it's odds on the succes 
