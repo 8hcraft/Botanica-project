@@ -141,7 +141,7 @@ If you are not taking care of your Tree in 96 hours, it becomes lonely.
 1) **Tree** that **arn't been Nurtured** getting lonely, and **starting it's timer** of Loneliness;  
 2) **After** been lonely for **96 hours** your tree getting crippled by the lightning, and becomes useless(almost) stump.  
 
-Lonely Tree attracts the nearest Nimbus that is passing by.     
+Lonely Tree attracts the nearest Nimbus that is passing by.  
 While staying alone, without the Gotchi Gardener Nurturing it, Nimbus sticks around and absorbs the vapours of water, that lonely Tree producing by its breath.   
 When Nimbus absorbs enough of water it starts to gain rage and gets upset that no one is bringing fresh water to the Tree.       
 Such a feeling makes Nimbus feel bad and angry at the owner of the Tree.   
