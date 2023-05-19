@@ -94,11 +94,11 @@ Seed and Tree UI are the same.
 
 Seed\Tree UI includes:
 
-A) "Nurture" button;
-B) "Loneliness" status;
-C) "Tree rings" indicator;
-D) "Jubilee" button;
-E) "Shake the tree" button.
+ A) "Nurture" button;
+ B) "Loneliness" status;
+ C) "Tree rings" indicator;
+ D) "Jubilee" button;
+ E) "Shake the tree" button.
 
 A) **"Nurture"** button:
 
