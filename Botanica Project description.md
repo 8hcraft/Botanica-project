@@ -197,15 +197,15 @@ Gardening skill synergy with Wildcrafting skill
 Wildcrafting skill will affect resaults of your harvest of consumables aka fruits, vegs, mushrooms, berries, roots, herbs etc.
 
 Perks of Gardening:
-Life and Death - Ability to revive the tree, make your stump to get back to life, but from the seed\sprout\sapling
-Pets swarm - Ability to place additional pet skin on the tree, 1 tree per 1 gotchi gardener (excluding two from same category)
-Earthworm - Ability to use earthworks instruments twice (shovels, grubber, midget pickaxe)
-Bender - Get one more bonsai from the same tree 1 time per gotchi
-Pest control - Ability to use bug spray twice
-Highlander - Get your lightning rod to be able to be used twice
-Rakehands - Your rake can collect more trash, ability to use it twice
-Acid boy - Now you know how to handle acids, and you need only half of it (can use it twice)
-Fortificator - Your tree fortifications getting twice stronger
+Life and Death - Ability to revive the tree, make your stump to get back to life, but from the seed\sprout\sapling  
+Pets swarm - Ability to place additional pet skin on the tree, 1 tree per 1 gotchi gardener (excluding two from same category)  
+Earthworm - Ability to use earthworks instruments twice (shovels, grubber, midget pickaxe)  
+Bender - Get one more bonsai from the same tree 1 time per gotchi  
+Pest control - Ability to use bug spray twice  
+Highlander - Get your lightning rod to be able to be used twice  
+Rakehands - Your rake can collect more trash, ability to use it twice  
+Acid boy - Now you know how to handle acids, and you need only half of it (can use it twice)  
+Fortificator - Your tree fortifications getting twice stronger  
 
 
 
