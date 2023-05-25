@@ -184,8 +184,28 @@ Every Gotchi Gardener is feeling blessed and excited about the harvest that's wo
 To obtain the rewards, including tree seed, Gotchi Gardner needs to come to the Tree, and shake it in order to try its luck.  
 **Shake the Tree** is a VRF call, using the formula of Gardening skill per wallet, calculating your total efforts and failures that have been made by you, as a Gardener.You are able to click on the Harvest button any time, but keep in mind, that your Gardening skill affecting it's odds on reciving rewards succesfully.  
 
+**VI. Gardening skill**
 
+Gardening skills could give you:
 
+Less gotchis needed to celebrate Jubilee (claim age)
+
+Increase your odds on successful seed discovery in opened tree cone
+
+Gardening skill synergy with Wildcrafting skill
+
+Wildcrafting skill will affect resaults of your harvest of consumables aka fruits, vegs, mushrooms, berries, roots, herbs etc.
+
+Perks of Gardening:
+Life and Death - Ability to revive the tree, make your stump to get back to life, but from the seed\sprout\sapling
+Pets swarm - Ability to place additional pet skin on the tree, 1 tree per 1 gotchi gardener (excluding two from same category)
+Earthworm - Ability to use earthworks instruments twice (shovels, grubber, midget pickaxe)
+Bender - Get one more bonsai from the same tree 1 time per gotchi
+Pest control - Ability to use bug spray twice
+Highlander - Get your lightning rod to be able to be used twice
+Rakehands - Your rake can collect more trash, ability to use it twice
+Acid boy - Now you know how to handle acids, and you need only half of it (can use it twice)
+Fortificator - Your tree fortifications getting twice stronger
 
 
 
