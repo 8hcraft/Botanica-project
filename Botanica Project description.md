@@ -1,6 +1,6 @@
 # Botanica-project
 
-Botanica is an ultimate update for Gotchiverse, with the unique gameplay and Alchemica utility sinks.
+Botanica is an ultimate update for Gotchiverse, with the unique gameplay, new features and Alchemica utility sinks via Gardening.
 
 TL;DR
 
